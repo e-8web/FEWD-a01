@@ -1,5 +1,3 @@
-# FEWD-a01-repo
-
 ### FEWD assignment 1
 ### My name is  *Elizabeth.*
 
