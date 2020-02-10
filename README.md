@@ -10,6 +10,8 @@ We created a website through using UX:
 * We used a card-sort
 * A reverse card-sort
 * And a user profile
+
+
 I appreciate learning how to store files on the internet.
 
 
